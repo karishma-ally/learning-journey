@@ -1,2 +1,3 @@
-# learning-journey
-My learning notes and projects in data analysis for diagnostics
+   # Learning Journey
+   MSc Precision Medicine Diagnostics student (PharmD background).
+   Learning Python for biomarker and diagnostic data analysis.
